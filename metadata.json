@@ -1,0 +1,5 @@
+{
+  "name": "HopeLogic Trading Bot",
+  "description": "Visual algorithmic trading bot builder and automated strategy execution platform powered by live Deriv market data streams.",
+  "requestFramePermissions": []
+}
